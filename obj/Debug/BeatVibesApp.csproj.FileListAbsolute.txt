@@ -1,0 +1,17 @@
+C:\Users\bisoyvinuya\source\repos\ApiClient\BeatVibesApp\bin\Debug\BeatVibesApp.exe.config
+C:\Users\bisoyvinuya\source\repos\ApiClient\BeatVibesApp\bin\Debug\BeatVibesApp.exe
+C:\Users\bisoyvinuya\source\repos\ApiClient\BeatVibesApp\bin\Debug\BeatVibesApp.pdb
+C:\Users\bisoyvinuya\source\repos\ApiClient\BeatVibesApp\obj\Debug\BeatVibesApp.csproj.AssemblyReference.cache
+C:\Users\bisoyvinuya\source\repos\ApiClient\BeatVibesApp\obj\Debug\BeatVibesApp.Form1.resources
+C:\Users\bisoyvinuya\source\repos\ApiClient\BeatVibesApp\obj\Debug\BeatVibesApp.Properties.Resources.resources
+C:\Users\bisoyvinuya\source\repos\ApiClient\BeatVibesApp\obj\Debug\BeatVibesApp.SongDetailForm.resources
+C:\Users\bisoyvinuya\source\repos\ApiClient\BeatVibesApp\obj\Debug\BeatVibesApp.csproj.GenerateResource.cache
+C:\Users\bisoyvinuya\source\repos\ApiClient\BeatVibesApp\obj\Debug\BeatVibesApp.csproj.CoreCompileInputs.cache
+C:\Users\bisoyvinuya\source\repos\ApiClient\BeatVibesApp\obj\Debug\BeatVibesApp.exe
+C:\Users\bisoyvinuya\source\repos\ApiClient\BeatVibesApp\obj\Debug\BeatVibesApp.pdb
+C:\Users\bisoyvinuya\source\repos\ApiClient\BeatVibesApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bisoyvinuya\source\repos\ApiClient\BeatVibesApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bisoyvinuya\source\repos\ApiClient\BeatVibesApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\bisoyvinuya\source\repos\ApiClient\BeatVibesApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bisoyvinuya\source\repos\ApiClient\BeatVibesApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\bisoyvinuya\source\repos\ApiClient\BeatVibesApp\obj\Debug\BeatVibesApp.csproj.CopyComplete
